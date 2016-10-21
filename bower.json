@@ -1,0 +1,19 @@
+{
+  "name": "materialize-tags",
+  "version": "1.0.0",
+  "main": [
+    "dist/js/materialize-tags.js",
+    "dist/css/materialize-tags.css"
+  ],
+  "keywords": [
+    "jQuery",
+    "tags input",
+    "materialize"
+  ],
+  "ignore": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "angular": "*"
+  }
+}
